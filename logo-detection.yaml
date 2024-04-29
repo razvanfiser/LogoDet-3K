@@ -1,0 +1,6 @@
+path: ../LogoDet-3K
+train: ./train
+val: ./validation
+test: ./test
+nc: 1
+names: ['logo']
